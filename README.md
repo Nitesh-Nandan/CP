@@ -1,4 +1,1 @@
-# CP
-Competitive Programming
-
-Learn GITHUB
+# Let's Do something challenging
